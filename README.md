@@ -1,4 +1,4 @@
-# FreeCodeCamp: Random Quote Machine
+# FreeCodeCamp: 25 + 5 Clock
 
 This is a solution to the FreeCodeCamp 25 + 5 Clock project.
 

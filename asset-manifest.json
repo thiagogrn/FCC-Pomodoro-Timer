@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FCC-pomodoro-timer/static/css/main.9762e4a6.css",
+    "main.js": "/FCC-pomodoro-timer/static/js/main.4b21a403.js",
+    "index.html": "/FCC-pomodoro-timer/index.html",
+    "main.9762e4a6.css.map": "/FCC-pomodoro-timer/static/css/main.9762e4a6.css.map",
+    "main.4b21a403.js.map": "/FCC-pomodoro-timer/static/js/main.4b21a403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9762e4a6.css",
+    "static/js/main.4b21a403.js"
+  ]
+}
